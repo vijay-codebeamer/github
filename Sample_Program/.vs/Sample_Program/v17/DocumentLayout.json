@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\GIT\\github\\Sample_Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60DA0530-3D5E-4AE7-B408-015AD8340F76}|Sample_Program.vbproj|C:\\GIT\\github\\Sample_Program\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{60DA0530-3D5E-4AE7-B408-015AD8340F76}|Sample_Program.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIT\\github\\Sample_Program\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60DA0530-3D5E-4AE7-B408-015AD8340F76}|Sample_Program.vbproj|c:\\git\\github\\sample_program\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{60DA0530-3D5E-4AE7-B408-015AD8340F76}|Sample_Program.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIT\\github\\Sample_Program\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\GIT\\github\\Sample_Program\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-08T11:09:37.005Z",
               "EditorCaption": ""
