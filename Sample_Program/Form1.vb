@@ -18,7 +18,7 @@
 
         TubeID = TubeOD - (2 * TubeThk)
 
-        MsgBox("Tube IDZ - " & TubeID, vbOKOnly)
+        MsgBox("Tube IDX - " & TubeID, vbOKOnly)
 
         End
 
