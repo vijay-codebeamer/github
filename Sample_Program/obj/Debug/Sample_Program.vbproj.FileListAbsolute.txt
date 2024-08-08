@@ -9,3 +9,15 @@ D:\DATA\Automation\Sample\Sample_Program\obj\Debug\Sample_Program.vbproj.CoreCom
 D:\DATA\Automation\Sample\Sample_Program\obj\Debug\Sample_Program.exe
 D:\DATA\Automation\Sample\Sample_Program\obj\Debug\Sample_Program.xml
 D:\DATA\Automation\Sample\Sample_Program\obj\Debug\Sample_Program.pdb
+C:\GIT\github\Sample_Program\bin\Debug\Sample_Program.exe.config
+C:\GIT\github\Sample_Program\bin\Debug\Sample_Program.exe
+C:\GIT\github\Sample_Program\bin\Debug\Sample_Program.pdb
+C:\GIT\github\Sample_Program\bin\Debug\Sample_Program.xml
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.vbproj.AssemblyReference.cache
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.Form1.resources
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.Resources.resources
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.vbproj.GenerateResource.cache
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.vbproj.CoreCompileInputs.cache
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.exe
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.xml
+C:\GIT\github\Sample_Program\obj\Debug\Sample_Program.pdb
