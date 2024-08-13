@@ -16,7 +16,7 @@
         TubeOD = Text5.Text
         TubeThk = Text6.Text
 
-        TubeID = TubeOD - (2 * TubeThk)
+        TubeID = TubeOD - (8 * TubeThk)
 
         End
 
