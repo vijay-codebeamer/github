@@ -69,3 +69,15 @@ C:\CB-2.1.0.0\repository\git\github\github\Sample_Program\obj\Debug\Sample_Progr
 C:\CB-2.1.0.0\repository\git\github\github\Sample_Program\obj\Debug\Sample_Program.exe
 C:\CB-2.1.0.0\repository\git\github\github\Sample_Program\obj\Debug\Sample_Program.xml
 C:\CB-2.1.0.0\repository\git\github\github\Sample_Program\obj\Debug\Sample_Program.pdb
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\bin\Debug\Sample_Program.exe.config
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\bin\Debug\Sample_Program.exe
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\bin\Debug\Sample_Program.pdb
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\bin\Debug\Sample_Program.xml
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.vbproj.AssemblyReference.cache
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.Form1.resources
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.Resources.resources
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.vbproj.GenerateResource.cache
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.vbproj.CoreCompileInputs.cache
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.exe
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.xml
+C:\CB-2.2.0.0\repository\git\isgec-Github\github\Sample_Program\obj\Debug\Sample_Program.pdb
